@@ -1,5 +1,5 @@
 # simplicial_regularization
-Code for the paper [*Simplicial Regularization*](https://openreview.net/forum?id=x9xn6HKgefz) by Jose Gallego-Posada and Patrick Forré at the 2021 ICLR Workshop on Geometrical and Topological Representation Learning.
+Code for the paper [*Simplicial Regularization*](https://openreview.net/forum?id=x9xn6HKgefz) by Jose Gallego-Posada and Patrick Forré at the 2021 ICLR [Workshop on Geometrical and Topological Representation Learning](https://gt-rl.github.io/).
 
 <img width="700" alt="simplicial_github" src="https://user-images.githubusercontent.com/8620503/116014738-c891a400-a604-11eb-8997-da1e754eec45.png">
 
